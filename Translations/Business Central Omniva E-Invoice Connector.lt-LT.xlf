@@ -1,0 +1,807 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="lt-LT" original="Business Central Omniva E-Invoice Connector">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 3649494947 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Omniva Dimensions</source>
+          <target state="translated">Omniva dimensijos</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Omniva dimensijos"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Omniva Dimensions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3649494947 - Field 2623957639 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dimension Code</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Omniva Dimensions - Field Dimension Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3649494947 - Field 2580555873 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dimension Name</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Omniva Dimensions - Field Dimension Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3649494947 - Field 1978408910 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Header ID</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Omniva Dimensions - Field Header ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3649494947 - Field 3641927271 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ID</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Omniva Dimensions - Field ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3649494947 - Field 1656078941 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line ID</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Omniva Dimensions - Field Line ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2752346263 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Omniva Header</source>
+          <target state="translated">Omniva antraštė</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Omniva antraštė"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Omniva Header - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2752346263 - Field 2899774127 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Applies-to Doc. No.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Omniva Header - Field Applies-to Doc. No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2752346263 - Field 2865137134 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Applies-to Doc. Type</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Omniva Header - Field Applies-to Doc. Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2752346263 - Field 2992547870 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Applies-to Invoice No.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Omniva Header - Field Applies-to Invoice No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2752346263 - Field 118914873 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Assigned No.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Omniva Header - Field Assigned No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2752346263 - Field 4248640148 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bank Account No.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Omniva Header - Field Bank Account No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2752346263 - Field 686652245 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bank Code</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Omniva Header - Field Bank Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2752346263 - Field 3609111399 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Contract No.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Omniva Header - Field Contract No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2752346263 - Field 4198939294 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Currency Code</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Omniva Header - Field Currency Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2752346263 - Field 4085727052 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Due Date</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Omniva Header - Field Due Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2752346263 - Field 2687027117 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Errors</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Omniva Header - Field Errors - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2752346263 - Field 3641927271 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ID</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Omniva Header - Field ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2752346263 - Field 4095313195 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice Type</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Omniva Header - Field Invoice Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2752346263 - Field 3443794910 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Omniva SF ID</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Omniva Header - Field Omniva SF ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2752346263 - Field 3710982960 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Omniva Header - Field Posting Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2752346263 - Field 3817494547 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase SF No.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Omniva Header - Field Purchase SF No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2752346263 - Field 3462151589 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SF Label</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Omniva Header - Field SF Label - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2752346263 - Field 2530528982 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total VAT Sum</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Omniva Header - Field Total VAT Sum - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2752346263 - Field 774839314 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor Company Code</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Omniva Header - Field Vendor Company Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2752346263 - Field 3961227134 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor Invoice No.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Omniva Header - Field Vendor Invoice No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2752346263 - Field 2602743068 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor Navision No.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Omniva Header - Field Vendor Navision No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2752346263 - Field 1527594213 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor No.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Omniva Header - Field Vendor No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4062564593 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Omniva Lines</source>
+          <target state="translated">Omniva eilutės</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Omniva eilutės"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Omniva Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4062564593 - Field 3609111399 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Contract No.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Omniva Lines - Field Contract No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4062564593 - Field 685353889 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description 1</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Omniva Lines - Field Description 1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4062564593 - Field 47657272 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description 2</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Omniva Lines - Field Description 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4062564593 - Field 4292849172 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>G/L Account Code</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Omniva Lines - Field G/L Account Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4062564593 - Field 1978408910 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Header ID</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Omniva Lines - Field Header ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4062564593 - Field 3641927271 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ID</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Omniva Lines - Field ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4062564593 - Field 568743302 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Omniva Lines - Field Item No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4062564593 - Field 475596436 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Price</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Omniva Lines - Field Item Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4062564593 - Field 3582421358 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line Amount</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Omniva Lines - Field Line Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4062564593 - Field 2704404533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Omniva Lines - Field Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4062564593 - Field 1920046521 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit of Measure</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Omniva Lines - Field Unit of Measure - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4062564593 - Field 1256068594 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Code</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Omniva Lines - Field VAT Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1844064234 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Omniva Logs</source>
+          <target state="translated">Omniva žurnalai</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Omniva žurnalai"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Omniva Log - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1844064234 - Field 2790486453 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Comment</source>
+          <target state="translated">Komentaras</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Komentaras"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Omniva Log - Field Comment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1844064234 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <target state="translated">Įrašo Nr.</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Įrašo Nr."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Omniva Log - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1844064234 - Field 1082358891 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Record Date</source>
+          <target state="translated">Įrašo Data</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Įrašo Data"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Omniva Log - Field Record Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1844064234 - Field 211031169 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Record Date and Time</source>
+          <target state="translated">Įrašo Data ir Laikas</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Įrašo Data ir Laikas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Omniva Log - Field Record Date and Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1844064234 - Field 1206026172 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Record Time</source>
+          <target state="translated">Įrašo Laikas</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Įrašo Laikas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Omniva Log - Field Record Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1844064234 - Field 3961227134 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor Invoice No.</source>
+          <target state="translated">Tiekėjo Sąskaitos Nr.</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Tiekėjo Sąskaitos Nr."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Omniva Log - Field Vendor Invoice No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3033444951 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Omniva Setup</source>
+          <target state="translated">Omniva nustatymai</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Omniva nustatymai"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Omniva Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3033444951 - Field 3951414661 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>API URL</source>
+          <target state="translated">API URL</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="API URL"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Omniva Setup - Field API URL - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3033444951 - Field 4105747088 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>API URL Dev</source>
+          <target state="translated">API URL Dev</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="API URL Dev"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Omniva Setup - Field API URL Dev - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3033444951 - Field 1246219133 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Authorization</source>
+          <target state="translated">Autorizacija</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Autorizacija"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Omniva Setup - Field Authorization - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3033444951 - Field 390905480 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Authorization Dev</source>
+          <target state="translated">Autorizacija Dev</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Autorizacija Dev"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Omniva Setup - Field Authorization Dev - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3033444951 - Field 1912613678 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Download File</source>
+          <target state="translated">Atsisiųsti failą</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Atsisiųsti failą"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Omniva Setup - Field Download File - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3033444951 - Field 1317552199 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Environment</source>
+          <target state="translated">Aplinka</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Aplinka"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Omniva Setup - Field Environment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3033444951 - Field 1317552199 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source> ,Prod,Dev</source>
+          <target state="translated"> ,Prod,Dev</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT=" ,Prod,Dev"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Omniva Setup - Field Environment - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 3033444951 - Field 3910917318 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Import Time</source>
+          <target state="translated">Paskutinio importo laikas</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Paskutinio importo laikas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Omniva Setup - Field Last Import Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3033444951 - Field 1351594800 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. Series</source>
+          <target state="translated">Nr. serija</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Nr. serija"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Omniva Setup - Field No. Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3033444951 - Field 2570022999 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Omniva Autopost</source>
+          <target state="translated">Omniva automatinis paskelbimas</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Omniva automatinis paskelbimas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Omniva Setup - Field Omniva Autopost - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3033444951 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <target state="translated">Pirminis raktas</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Pirminis raktas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Omniva Setup - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3033444951 - Field 41481359 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor E-mail</source>
+          <target state="translated">Pardavėjo el. paštas</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Pardavėjo el. paštas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Omniva Setup - Field Vendor E-mail - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3033444951 - Field 2989763908 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor Registration No. Field</source>
+          <target state="translated">Pardavėjo registracijos Nr. laukas</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Pardavėjo registracijos Nr. laukas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Omniva Setup - Field Vendor Registration No. Field - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3781428534 - NamedType 4110635973" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Calculating @1@@@@@@@@@@@@@@@@@@@</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit EVK Omniva - NamedType CalculatingLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3781428534 - NamedType 4179241738" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invalid parameters</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit EVK Omniva - NamedType InvalidParametersErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3781428534 - NamedType 1725006987" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The XML value "%1" is not a valid date.</source>
+          <target state="translated">XML reikšmė „%1“ nėra tinkama data.</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="XML reikšmė „%1“ nėra tinkama data."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit EVK Omniva - NamedType InvalidXmlDateErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3781428534 - NamedType 1712557570" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The XML value "%1" is not a valid decimal number.</source>
+          <target state="translated">XML reikšmė „%1“ nėra tinkamas dešimtainis skaičius.</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="XML reikšmė „%1“ nėra tinkamas dešimtainis skaičius."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit EVK Omniva - NamedType InvalidXmlDecimalErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3781428534 - NamedType 1228470893" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The selected file is not valid XML.</source>
+          <target state="translated">Pasirinktas failas nėra tinkamas XML dokumentas.</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Pasirinktas failas nėra tinkamas XML dokumentas."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit EVK Omniva - NamedType InvalidXmlFileErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3781428534 - NamedType 173368066" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Omniva returned an invalid XML response.</source>
+          <target state="translated">„Omniva“ grąžino netinkamą XML atsakymą.</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="„Omniva“ grąžino netinkamą XML atsakymą."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit EVK Omniva - NamedType InvalidXmlResponseErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3781428534 - NamedType 2138067883" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Wrong Document type</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit EVK Omniva - NamedType WrongDocumentTypeErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3781428534 - Method 2137489056 - NamedType 2637267728" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Select file</source>
+          <target state="translated">Pasirinkite failą</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Pasirinkite failą"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit EVK Omniva - Method OmnivaTest - NamedType SelectFileLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2785663989 - NamedType 778628962" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Omniva returned HTTP status %1 (%2). Response: %3</source>
+          <target state="translated">„Omniva“ grąžino HTTP būseną %1 (%2). Atsakymas: %3</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="„Omniva“ grąžino HTTP būseną %1 (%2). Atsakymas: %3"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit EVK Omniva API Client - NamedType HttpResponseErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2785663989 - NamedType 1165956978" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The HTTP request could not be sent.</source>
+          <target state="translated">Nepavyko išsiųsti HTTP užklausos.</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Nepavyko išsiųsti HTTP užklausos."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit EVK Omniva API Client - NamedType HttpTransportErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2785663989 - NamedType 868391751" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The SOAP request is not valid XML.</source>
+          <target state="translated">SOAP užklausa nėra tinkamas XML dokumentas.</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="SOAP užklausa nėra tinkamas XML dokumentas."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit EVK Omniva API Client - NamedType InvalidXmlErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2785663989 - NamedType 3955564992" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The SOAP body is missing.</source>
+          <target state="translated">SOAP dokumente nerastas „Body“ elementas.</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="SOAP dokumente nerastas „Body“ elementas."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit EVK Omniva API Client - NamedType MissingSoapBodyErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2785663989 - NamedType 2327282134" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The SOAP envelope is missing.</source>
+          <target state="translated">SOAP dokumente nerastas „Envelope“ elementas.</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="SOAP dokumente nerastas „Envelope“ elementas."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit EVK Omniva API Client - NamedType MissingSoapEnvelopeErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2785663989 - NamedType 3152944628" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Omniva settings are missing.</source>
+          <target state="translated">Trūksta „Omniva“ nustatymų.</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Trūksta „Omniva“ nustatymų."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit EVK Omniva API Client - NamedType OmnivaSettingsAreMissingErr</note>
+        </trans-unit>
+        <trans-unit id="Page 4014695634 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Omniva Export</source>
+          <target state="translated">Omniva eksportas</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Omniva eksportas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EVK Omniva Export - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4014695634 - NamedType 4110635973" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Calculating @1@@@@@@@@@@@@@@@@@@@</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EVK Omniva Export - NamedType CalculatingLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 4014695634 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EVK Omniva Export - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4014695634 - Control 1371301769 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies g/l account filter.</source>
+          <target state="translated">Nurodo galinės sąskaitos filtrą</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Nurodo galinės sąskaitos filtrą"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EVK Omniva Export - Control ChartOfAccountsFilter - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4014695634 - Control 1371301769 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Chart of Accounts</source>
+          <target state="translated">Sąskaitų planas</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Sąskaitų planas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EVK Omniva Export - Control ChartOfAccountsFilter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4014695634 - Control 406279140 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies dimensions filter.</source>
+          <target state="translated">Nurodo dimensijų filtrą</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Nurodo dimensijų filtrą"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EVK Omniva Export - Control DimensionFilter - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4014695634 - Control 406279140 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dimensions</source>
+          <target state="translated">Dimensijos</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Dimensijos"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EVK Omniva Export - Control DimensionFilter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4014695634 - Control 472560620 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies e-invoice import date from.</source>
+          <target state="translated">Nurodo e-sąskaitų importo datą nuo</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Nurodo e-sąskaitų importo datą nuo"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EVK Omniva Export - Control InvoiceImportDate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4014695634 - Control 472560620 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import From</source>
+          <target state="translated">Importuoti nuo</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Importuoti nuo"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EVK Omniva Export - Control InvoiceImportDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4014695634 - Control 1553686271 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies item filter.</source>
+          <target state="translated">Nurodo prekių filtrą</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Nurodo prekių filtrą"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EVK Omniva Export - Control ItemFilter - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4014695634 - Control 1553686271 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item</source>
+          <target state="translated">Prekės</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Prekės"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EVK Omniva Export - Control ItemFilter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4014695634 - Control 1115309124 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies location code filter.</source>
+          <target state="translated">Nurodo vietos kodo filtrą</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Nurodo vietos kodo filtrą"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EVK Omniva Export - Control LocationCodeFilter - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4014695634 - Control 1115309124 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Location Code</source>
+          <target state="translated">Vietai kodas</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Vietai kodas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EVK Omniva Export - Control LocationCodeFilter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4014695634 - Control 1151459472 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies vendors filter.</source>
+          <target state="translated">Nurodo tiekėjų filtrą</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Nurodo tiekėjų filtrą"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EVK Omniva Export - Control VendorFilter - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4014695634 - Control 1151459472 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendors</source>
+          <target state="translated">Tiekėjai</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Tiekėjai"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EVK Omniva Export - Control VendorFilter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1844064234 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Omniva Logs</source>
+          <target state="translated">Omniva žurnalai</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Omniva žurnalai"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EVK Omniva Log - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1844064234 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <target state="translated">Bendra</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Bendra"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EVK Omniva Log - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1844064234 - Control 2790486453 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies error information.</source>
+          <target state="translated">Nurodo klaidos informaciją.</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Nurodo klaidos informaciją."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EVK Omniva Log - Control Comment - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1844064234 - Control 883711285 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of the entry, as assigned from the specified number series when the entry was created.</source>
+          <target state="translated">Nurodo įrašo numerį, priskirtą iš nurodytos numeracijos serijos, kai įrašas buvo sukurtas.</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Nurodo įrašo numerį, priskirtą iš nurodytos numeracijos serijos, kai įrašas buvo sukurtas."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EVK Omniva Log - Control Entry No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1844064234 - Control 1082358891 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies when Record is created.</source>
+          <target state="translated">Nurodo, kada sukurtas įrašas.</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Nurodo, kada sukurtas įrašas."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EVK Omniva Log - Control Record Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1844064234 - Control 211031169 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies when Record is created.</source>
+          <target state="translated">Nurodo, kada sukurtas įrašas.</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Nurodo, kada sukurtas įrašas."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EVK Omniva Log - Control Record Date and Time - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1844064234 - Control 1206026172 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies when Record is created.</source>
+          <target state="translated">Nurodo, kada sukurtas įrašas.</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Nurodo, kada sukurtas įrašas."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EVK Omniva Log - Control Record Time - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1844064234 - Control 3961227134 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies vendor invoice no..</source>
+          <target state="translated">Nurodo tiekėjo sąskaitos numerį.</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Nurodo tiekėjo sąskaitos numerį."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EVK Omniva Log - Control Vendor Invoice No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3033444951 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Omniva Setup</source>
+          <target state="translated">Omniva nustatymai</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Omniva nustatymai"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EVK Omniva Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3033444951 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <target state="translated">Bendra</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Bendra"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EVK Omniva Setup - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3033444951 - Control 3951414661 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies api url.</source>
+          <target state="translated">Nurodo api url.</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Nurodo api url."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EVK Omniva Setup - Control API URL - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3033444951 - Control 4105747088 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies api url for dev environment.</source>
+          <target state="translated">Nurodo api url dev aplinkai.</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Nurodo api url dev aplinkai."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EVK Omniva Setup - Control API URL Dev - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3033444951 - Control 1246219133 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies api authorization.</source>
+          <target state="translated">Nurodo api autorizaciją.</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Nurodo api autorizaciją."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EVK Omniva Setup - Control Authorization - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3033444951 - Control 390905480 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies api authorization for dev environment.</source>
+          <target state="translated">Nurodo api autorizaciją dev aplinkai.</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Nurodo api autorizaciją dev aplinkai."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EVK Omniva Setup - Control Authorization Dev - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3033444951 - Control 1912613678 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Download e-invoice file.</source>
+          <target state="translated">Atsisiųsti e-faktūros failą.</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Atsisiųsti e-faktūros failą."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EVK Omniva Setup - Control Download File - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3033444951 - Control 1317552199 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies Environment.</source>
+          <target state="translated">Nurodo aplinką.</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Nurodo aplinką."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EVK Omniva Setup - Control Environment - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3033444951 - Control 3910917318 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies last import time from e-invoice system.</source>
+          <target state="translated">Nurodo paskutinį importo laiką iš e-faktūros sistemos.</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Nurodo paskutinį importo laiką iš e-faktūros sistemos."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EVK Omniva Setup - Control Last Import Time - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3033444951 - Control 1351594800 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies no. series.</source>
+          <target state="translated">Nurodo numerų seriją.</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Nurodo numerų seriją."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EVK Omniva Setup - Control No. Series - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3033444951 - Control 2570022999 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Automatically post invoice.</source>
+          <target state="translated">Automatiškai paskelbti sąskaitą faktūrą.</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Automatiškai paskelbti sąskaitą faktūrą."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EVK Omniva Setup - Control Omniva Autopost - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3033444951 - Control 41481359 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Send Vendor E-mail address to e-invoice system.</source>
+          <target state="translated">Siųsti tiekėjo el. pašto adresą į e-faktūros sistemą.</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Siųsti tiekėjo el. pašto adresą į e-faktūros sistemą."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EVK Omniva Setup - Control Vendor E-mail - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3033444951 - Control 2989763908 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies vendor registration no. field.</source>
+          <target state="translated">Nurodo tiekėjo registracijos numerio lauką.</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Nurodo tiekėjo registracijos numerio lauką."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EVK Omniva Setup - Control Vendor Registration No. Field - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3608511854 - Control 4262269886 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 339962132">
+          <source>Specifies g/l account for e-invoice.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension EVK Omniva Dimension Values - Control Omniva - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1761915501 - Control 4262269886 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4219821699">
+          <source>Specifies g/l account for e-invoice.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension EVK Omniva G/L Account Card - Control Omniva - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2447164599 - Control 4262269886 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2668789169">
+          <source>Specifies g/l account for e-invoice.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension EVK Omniva G/L Account List - Control Omniva - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 868018589 - Control 4262269886 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>Specifies item for e-invoice.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension EVK Omniva Item Card - Control Omniva - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 411771207 - Control 4262269886 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4178721393">
+          <source>Specifies item for e-invoice.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension EVK Omniva Item List - Control Omniva - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4097315365 - Control 4262269886 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3870787835">
+          <source>Specifies g/l account for e-invoice.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension EVK Omniva Location Card - Control Omniva - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 918160431 - Control 4262269886 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 105083977">
+          <source>Specifies g/l account for e-invoice.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension EVK Omniva Location List - Control Omniva - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3155906252 - Control 2570022999 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2437096118">
+          <source>Specifies automated invoice posting.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension EVK Omniva Purchase Invoice - Control Omniva Autopost - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3155906252 - Control 565330354 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2437096118">
+          <source>Specifies invoice imported date.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension EVK Omniva Purchase Invoice - Control Omniva Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3418875958 - Control 4262269886 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4055858012">
+          <source>Specifies g/l account for e-invoice.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension EVK Omniva Vendor Card - Control Omniva - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3418875958 - Control 372093671 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4055858012">
+          <source>Specifies the automatic import of the vendor into Omniva system.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension EVK Omniva Vendor Card - Control Omniva Automat - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 585255088 - Control 4262269886 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4194195770">
+          <source>Specifies g/l account for e-invoice.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension EVK Omniva Vendor List - Control Omniva - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 585255088 - Control 372093671 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4194195770">
+          <source>Specifies the automatic import of the vendor into Omniva systemm .</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension EVK Omniva Vendor List - Control Omniva Automat - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3987445347 - Field 4262269886 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1468132285">
+          <source>Omniva</source>
+          <target state="translated">Omniva</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Omniva"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension EVK Omniva Dimension Value - Field Omniva - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3054634625 - Field 4262269886 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4274826855">
+          <source>Omniva</source>
+          <target state="translated">Omniva</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Omniva"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension EVK Omniva G/L Account - Field Omniva - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 583302161 - Field 4262269886 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Omniva</source>
+          <target state="translated">Omniva</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Omniva"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension EVK Omniva Item - Field Omniva - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4139119289 - Field 4262269886 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3891454143">
+          <source>Omniva</source>
+          <target state="translated">Omniva</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Omniva"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension EVK Omniva Location - Field Omniva - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3473888722 - Field 2570022999 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2072992664">
+          <source>Omniva Autopost</source>
+          <target state="translated">Omniva automatinis paskelbimas</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Omniva automatinis paskelbimas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension EVK Omniva Purchase Header - Field Omniva Autopost - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3473888722 - Field 565330354 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2072992664">
+          <source>Omniva Date</source>
+          <target state="translated">Omniva data</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Omniva data"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension EVK Omniva Purchase Header - Field Omniva Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 813492370 - Field 4262269886 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1936001480">
+          <source>Omniva</source>
+          <target state="translated">Omniva</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Omniva"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension EVK Omniva Vendor - Field Omniva - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 813492370 - Field 372093671 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1936001480">
+          <source>Omniva Automat</source>
+          <target state="translated">Omniva automat</target>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Omniva automat"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension EVK Omniva Vendor - Field Omniva Automat - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

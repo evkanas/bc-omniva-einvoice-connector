@@ -1,0 +1,21 @@
+{
+  "name": "EVK Rules",
+  "rules": [
+    {
+      "id": "AA0247",
+      "action": "None"
+    },
+     {
+      "id": "AL0432",
+      "action": "None"
+    },
+    {
+      "id": "AA0232",
+      "action": "None"
+    },
+    {
+      "id": "AW0009",
+      "action": "None"
+    }
+  ]
+}

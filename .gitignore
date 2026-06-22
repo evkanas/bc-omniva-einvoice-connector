@@ -1,0 +1,6 @@
+.alpackages/
+.rad/
+.output/
+.snapshots/
+.vscode/
+*.app

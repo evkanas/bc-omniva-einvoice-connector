@@ -1,0 +1,24 @@
+{
+  "id": "7cef43a4-5b9d-4206-b37c-01bd7399021e",
+  "publisher": "EVK Solutions",
+  "name": "Business Central Omniva E-Invoice Connector",
+  "brief": "Omniva e-invoice connector for Business Central",
+  "description": "Portfolio project demonstrating Business Central integration with an external e-invoice SOAP service.",
+  "version": "1.0.0.0",
+  "url": "https://github.com/evkanas",
+  "logo": "logo.png",
+  "platform": "28.0.0.0",
+  "application": "28.0.0.0",
+  "runtime": "17.0",
+  "idRanges": [
+    {
+      "from": 70100,
+      "to": 70199
+    }
+  ],
+  "features": [
+    "NoImplicitWith",
+    "TranslationFile"
+  ]
+  
+}
