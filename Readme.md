@@ -2,6 +2,8 @@
 
 Portfolio project by **Evaldas Jablonskas**, Microsoft Dynamics 365 Business Central AL / NAV Developer.
 
+![Evaldas Jablonskas – Business Central Omniva Supplier Invoice Connector AL portfolio project](evaldas-jablonskas-bc-omniva-einvoice-connector.jpg)
+
 This repository demonstrates a Microsoft Dynamics 365 Business Central AL extension for importing supplier invoices digitized by Omniva into Business Central through a SOAP API.
 
 The project shows practical experience with Business Central integrations, XML processing, supplier invoice automation, data validation, and Job Queue-based background processing.
